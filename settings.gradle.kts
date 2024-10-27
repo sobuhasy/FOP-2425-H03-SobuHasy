@@ -3,8 +3,9 @@ dependencyResolutionManagement {
     repositories {
 //        mavenLocal()
         maven("https://s01.oss.sonatype.org/content/repositories/snapshots")
+        maven("https://jitpack.io")
         mavenCentral()
     }
 }
 
-rootProject.name = "H03-Root"
+rootProject.name = "H03-Student"
